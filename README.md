@@ -11,8 +11,9 @@ API calls are divided into 4 folders:
 -   city
 -   profile
 -   users
-There are 47 requests containing 130 tests.
-Each test section involves deleting test data and restoring the initial state.
+
+- There are 47 requests containing 130 tests.
+- Each test section involves deleting test data and restoring the initial state.
 
 ## Localhost source
 
