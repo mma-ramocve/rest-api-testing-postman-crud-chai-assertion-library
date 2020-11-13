@@ -7,10 +7,10 @@
 This is a project to demonstate the Rest API testing process on locally set environment. Concept applied is CRUD. 
 [Chai Assertion Library](###https://www.chaijs.com/) is used.
 API calls are divided into 4 folders:
--   auth
--   city
--   profile
--   users
+        -   auth
+        -   city
+        -   profile
+        -   users
 
 - There are 47 requests containing 130 tests.
 - Each test section involves deleting test data and restoring the initial state.
