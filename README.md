@@ -4,7 +4,7 @@
 
 <https://documenter.getpostman.com/view/10013377/TVeng9Y9>
 
-This is a project to demonstate the Rest API testing process on locally set environment. Concept applied is CRUD. 
+This is a project to demonstrate the Rest API testing process on a locally set environment. Concept applied is CRUD. 
 [Chai Assertion Library](###https://www.chaijs.com/) is used.
 API calls are divided into 4 folders:
         -   auth
